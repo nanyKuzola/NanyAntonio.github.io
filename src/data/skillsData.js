@@ -1,6 +1,6 @@
  export const skillsData = [
     'HTML',
-    'Fastify',
+    'Wordpress',
     'Blender',
     'Figma',
     'Javascript',
