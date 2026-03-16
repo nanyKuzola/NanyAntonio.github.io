@@ -389,7 +389,7 @@ function Contacts() {
             </div>
             <img
                 src={theme.contactsimg}
-                alt='contacts'
+                alt='contactos'
                 className='contacts--img'
             />
         </div>
