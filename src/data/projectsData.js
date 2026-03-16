@@ -15,7 +15,7 @@ export const projectsData = [
         tags: ['Wordpress', 'CSS', 'Material Ui'],
         code: 'https://casseteestudio.com/',
         demo: 'https://casseteestudio.com/',
-        image: 'https://i.ibb.co/KjjYVpNw/projecto-02.png'
+        image: 'https://i.ibb.co/hxNVNFzB/projec-cassete.png'
     },
     {
         id: 2,
