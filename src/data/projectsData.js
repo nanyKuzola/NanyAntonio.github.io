@@ -13,8 +13,8 @@ export const projectsData = [
         id: 1,
         projectName: '',
         tags: ['Wordpress', 'CSS', 'Material Ui'],
-        code: 'https://arquitetarosana.com',
-        demo: 'https://arquitetarosana.com',
+        code: 'https://casseteestudio.com/',
+        demo: 'https://casseteestudio.com/',
         image: 'https://i.ibb.co/KjjYVpNw/projecto-02.png'
     },
     {
