@@ -20,4 +20,11 @@ export const experienceData = [
         startYear: '2025',
         endYear: 'Presente'
     },
+    {
+        id: 4,
+        company: 'Instituto de Quimica - USP',
+        jobtitle: 'Bolsista TT',
+        startYear: '2025',
+        endYear: 'Presente'
+    },
 ]

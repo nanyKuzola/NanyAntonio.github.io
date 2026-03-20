@@ -23,7 +23,7 @@ export const projectsData = [
         tags: ['Wordpress', 'CSS', 'Material Ui'],
         code: 'https://aiaangola.org/',
         demo: 'https://aiaangola.org/',
-        image: 'https://i.ibb.co/F4njZ6wQ/project-01.png'
+        image: 'https://i.ibb.co/LDcHJyQY/aia.png'
 
     },
     {
