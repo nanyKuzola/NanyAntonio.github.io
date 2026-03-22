@@ -12,29 +12,45 @@ export const projectsData = [
     {
         id: 1,
         projectName: '',
-        tags: ['Wordpress', 'CSS', 'Material Ui'],
-        code: 'https://casseteestudio.com/',
-        demo: 'https://casseteestudio.com/',
-        image: 'https://i.ibb.co/hxNVNFzB/projec-cassete.png'
+        tags: ['Java', 'HTML', 'Bootstrap', 'Javascript', 'R', 'SQL','git','Mysql','Tomcat'],
+        code: 'https://sucest-fun.org/wsapp/',
+        demo: 'https://sucest-fun.org/wsapp/',
+        image:'https://i.ibb.co/7J4vgtMs/sucest-fun.png'
     },
     {
         id: 2,
         projectName: '',
-        tags: ['Wordpress', 'CSS', 'Material Ui'],
-        code: 'https://aiaangola.org/',
-        demo: 'https://aiaangola.org/',
-        image: 'https://i.ibb.co/LDcHJyQY/aia.png'
-
+        tags: ['Wordpress', 'Elementor', 'Trello','git'],
+        code: 'https://casseteestudio.com/',
+        demo: 'https://casseteestudio.com/',
+        image:'https://i.ibb.co/svHGM1BC/cassete-estudio.png'
     },
     {
         id: 3,
         projectName: '',
-        tags: ['Wordpress', 'CSS', 'Material Ui'],
+        tags: ['Wordpress', 'Elementor', 'Trello','git'],
+        code: 'https://aiaangola.org/',
+        demo: 'https://aiaangola.org/',
+        image:'https://i.ibb.co/LDcHJyQY/aia.png'
+
+    },
+    {
+        id: 4,
+        projectName: '',
+        tags: ['Wordpress', 'Elementor', 'Trello','git'],
         code: 'https://maddoxconsultoria.com.br/',
         demo: 'https://maddoxconsultoria.com.br/',
-        image: 'https://i.ibb.co/zWJd3tYV/PROJET3.png'
+        image:'https://i.ibb.co/zWJd3tYV/PROJET3.png'
 
-    }
+    },
+    {
+        id: 5,
+        projectName: '',
+        tags: ['Laravel', 'Bootstrap', 'Javascript', 'SQL','git','Mysql','Apache', 'Jira'],
+        code: 'https://github.com/nanyKuzola/sigaimpnv/blob/master/app/Http/Controllers/UtilizadorController.php',
+        demo: 'https://github.com/nanyKuzola/sigaimpnv/blob/master/app/Http/Controllers/UtilizadorController.php',
+        image:'https://i.ibb.co/wFxBS1Fg/sgaimpnv.png'
+    },
 ]
 
 
