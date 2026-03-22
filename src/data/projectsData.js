@@ -50,7 +50,7 @@ export const projectsData = [
         code: 'https://github.com/nanyKuzola/sigaimpnv/blob/master/app/Http/Controllers/UtilizadorController.php',
         demo: 'https://github.com/nanyKuzola/sigaimpnv/blob/master/app/Http/Controllers/UtilizadorController.php',
         image:'https://i.ibb.co/wFxBS1Fg/sgaimpnv.png'
-    },
+    }
 ]
 
 
