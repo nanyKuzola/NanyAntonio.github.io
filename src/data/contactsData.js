@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'kuzolanany@gmail.com',
+    email: 'nany.pedro@hotmail.com',
     phone: '+5512997733224',
-    address: 'Brazil - SP/São Jośe dos campos',
+    address: 'Brazil - SP | Brigadeiro Tobias 300',
 
     sheetAPI: ''
 }
